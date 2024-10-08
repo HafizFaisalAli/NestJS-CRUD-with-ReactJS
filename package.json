@@ -11,6 +11,7 @@
     "install-all": "concurrently \"yarn install-frontend\" \"yarn install-backend\""
   },
   "dependencies": {
+    "@tanstack/react-router": "^1.63.2",
     "concurrently": "^9.0.1"
   }
 }
