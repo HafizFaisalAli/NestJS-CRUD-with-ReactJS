@@ -4,7 +4,7 @@ The project is setup as monorepo using yarn workspaces.
 
 There are total 3 packages
 
-- Frontend (Frontend)
+- Frontend (ReactJS)
 
 - backend (NestJS based API service)
 - shared (shared models and types)
