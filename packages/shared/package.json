@@ -1,0 +1,14 @@
+{
+  "name": "@plenumpro/shared",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "types": "dist/index",
+  "scripts": {
+    "dev": "tsc --watch -p tsconfig.json",
+    "build": "tsc -p tsconfig.json"
+  },
+  "license": "UNLICENSED",
+  "dependencies": {
+    "typescript": "^5.4.5"
+  }
+}
